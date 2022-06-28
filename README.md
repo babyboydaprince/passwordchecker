@@ -13,7 +13,7 @@ python passwordChecker.py hello123
  ```
 ### 📋 Prerequisites
 
--> Python 3
+- Python 3
 
 
 ### 🔧 Installation
@@ -23,12 +23,12 @@ Does not require installation
 
 ## 🛠️ Made with
 
--> Python 3.9.2
+- Python 3.9.2
 
 
 ## 📌 passwordChecker version
 
--> 1.0
+- 1.0
 
 ---
 
