@@ -1,6 +1,6 @@
 # Python Password Checker
 
-Simple python script which utilizes K-Anonymity method to validade if your password has been found in data breaches.
+Simple python script which utilizes K-Anonymity method to validate if your password has been found in data breaches.
 
 ## 🚀 Run
 
